@@ -27,11 +27,22 @@ if num % 2 == 0:
     print(f'Ivalor {num} é PAR')
 else:
     print(f'O valor {num} é ÍMPAR)
-
 ```
 
-da pra fazer tabelas
+da pra fazer tabelas:
 
 Numero | Nome | Nota
 ---|---|---
 1 | Alex | 10.0
+
+da pra colocar imagens:
+
+![AntiqueScaryAustraliansilkyterrier-size_restricted](https://user-images.githubusercontent.com/91887268/136850765-e7e33dec-6233-4e6a-af0e-836e767d183b.gif)
+
+da pra por emojis:
+
+🖖 👽 ☣️
+
+da pra mencionar:
+
+Como diria o filosofo @Pithon, tudo na vida depende do quanto vc quer...
