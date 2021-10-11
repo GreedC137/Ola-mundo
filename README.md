@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Primeiro reposotório versionado do curso de Git e GitHub
+ Meu primeiro reposotório versionado do curso de Git e GitHub
 
 Repositório da aula
 
@@ -45,4 +45,4 @@ da pra por emojis:
 
 da pra mencionar:
 
-Como diria o filosofo @Pithon, tudo na vida depende do quanto vc quer...
+Como diria o filósofo @Pithon, tudo na vida depende do quanto você quer...
