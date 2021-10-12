@@ -1,10 +1,14 @@
 # Olá, Mundo!
- Meu primeiro reposotório versionado do curso de Git e GitHub
 
-Repositório da aula
 
-Teste do Git e GitHub
-bem simples...
+## Aprendendo sobre Git e GitHub
+
+### Branch
+É uma árvore de commits, relacionado as versões do próprio repositório.
+Tipo mine 1.14 o '1' é a 'master' e o '14' é a version ramificada ou 'branch'.
+Essa tatica serve pra não perder ou fazer cagadas na master, e quando tiver pronto e funcional, vc da um 'merge' na master, se tudo der errado e vc resolver deletar a branch, nada vai afetar a master
+
+OBS: A logo do Git é uma Branch
 
 ## Markdown
 HTML versão izi
