@@ -9,15 +9,17 @@ bem simples...
 ## Markdown
 HTML versão izi
 
+### Da pra editar:
+
 ~~Riscado~~
 **Bolt**
 __Italico__
 
-da pra mistura:
+### Da pra mistura:
 
 __*Eita*__
 
-da pra fazer referencias a comandos:
+### Da pra fazer referencias a comandos:
 
 `document.getElementById()`
 
@@ -29,20 +31,20 @@ else:
     print(f'O valor {num} é ÍMPAR)
 ```
 
-da pra fazer tabelas:
+### Da pra fazer tabelas:
 
 Numero | Nome | Nota
 ---|---|---
 1 | Alex | 10.0
 
-da pra colocar imagens:
+### Da pra colocar imagens:
 
 ![AntiqueScaryAustraliansilkyterrier-size_restricted](https://user-images.githubusercontent.com/91887268/136850765-e7e33dec-6233-4e6a-af0e-836e767d183b.gif)
 
-da pra por emojis:
+### Da pra por emojis:
 
 🖖 👽 ☣️
 
-da pra mencionar:
+### Da pra mencionar:
 
 Como diria o filósofo @Pithon, tudo na vida depende do quanto você quer...
