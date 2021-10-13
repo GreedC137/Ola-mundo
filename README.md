@@ -16,12 +16,12 @@ HTML versão izi
 ### Da pra editar:
 
 ~~Riscado~~
-**Bolt**
+**Negrito**
 _Italico_
 
-### Da pra mistura:
+### Da pra misturar:
 
-__*Eita*__
+_~*Eita*~_
 
 ### Da pra fazer referencias a comandos:
 
