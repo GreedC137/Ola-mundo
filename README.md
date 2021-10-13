@@ -17,7 +17,7 @@ HTML versão izi
 
 ~~Riscado~~
 **Bolt**
-__Italico__
+_Italico_
 
 ### Da pra mistura:
 
