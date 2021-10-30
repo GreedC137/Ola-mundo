@@ -3,12 +3,12 @@
     font-size: 16px;
 }
 body {
-    background-color: aquamarine;
+    background-color: rgb(217, 255, 242);
 }
 main {
-    background-color: aliceblue;
+    background-color: rgb(165, 165, 165);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 4px 4px 5px rgba(65, 105, 225, 0.384);
+    box-shadow: 4px 4px 5px rgb(15, 25, 56);
 }
